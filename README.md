@@ -21,4 +21,5 @@ MARS DATA ANALYSIS:
 
 5.	About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 •	Takes 686 (Earth) days for Mars to go around the sun. 
-![image](https://github.com/davisdw/Data-Collection-Challenge/assets/104311388/9d5f7242-aa52-4f9d-97f5-6eb7136c0869)
+
+
