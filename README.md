@@ -1,9 +1,12 @@
-# Data-Collection-Challenge
-Module 11 Data Collection
+# Mars_Tempature_Data_Analysis
 
-MARS DATA ANALYSIS: 
-
+MARS DATA ANALYSIS:
 ===================================
+
+Data has been extracted from Mars website: https://static.bc-edx.com/data/web/mars_news/index.html using library called splinter to extract contents from site
+Next data from the website is  created into an object called beautiful soup allowing me to parse and search the extracted data from site
+View the data and stored as csv as dataframe
+Analyzing the data and plot the results as visualization
 
 1.	How many months exist on Mars?
    
